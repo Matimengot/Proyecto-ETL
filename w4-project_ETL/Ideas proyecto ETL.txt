@@ -1,0 +1,25 @@
+1-Repo + issue
+2- Extraccion : con 3 fuentes distintas y 2 metodos de extraccion ya sea archivos, DB o scrap rsss o API
+3- Transformacion
+4- Guardado en base de datos (SQL o Mongo)
+Las fuentes : Kaggle, API
+
+
+IDEAS
+Base de datos que muestre la popularidad de un artista 
+Buscar info sobre precio de discos de  vinilo, reproduccion de sus videos, merch, seguidores en spotify
+Ver sus canciones mas populares y el ano que fueron sacadas
+Sus tipos musica
+
+IDEA 
+
+Api spotify
+scrap imagen del album
+scrap wiki de info extra de la banda
+google trends
+
+
+Facts:
+Year de 1990 hasta 2021
+
+Hacer el response 200
